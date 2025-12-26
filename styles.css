@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+ table,tr ,td,th{
+	border: 1px solid black;
+	 border-collapse:collapse;
+}
